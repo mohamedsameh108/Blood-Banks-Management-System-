@@ -1,0 +1,27 @@
+D:\College\DataBase\Project\Blood Bank\bin\Release\net8.0-windows\Blood Bank.exe
+D:\College\DataBase\Project\Blood Bank\bin\Release\net8.0-windows\Blood Bank.dll.config
+D:\College\DataBase\Project\Blood Bank\bin\Release\net8.0-windows\Blood Bank.deps.json
+D:\College\DataBase\Project\Blood Bank\bin\Release\net8.0-windows\Blood Bank.runtimeconfig.json
+D:\College\DataBase\Project\Blood Bank\bin\Release\net8.0-windows\Blood Bank.dll
+D:\College\DataBase\Project\Blood Bank\bin\Release\net8.0-windows\Blood Bank.pdb
+D:\College\DataBase\Project\Blood Bank\bin\Release\net8.0-windows\System.Data.SqlClient.dll
+D:\College\DataBase\Project\Blood Bank\bin\Release\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\College\DataBase\Project\Blood Bank\bin\Release\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\College\DataBase\Project\Blood Bank\bin\Release\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\College\DataBase\Project\Blood Bank\bin\Release\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\College\DataBase\Project\Blood Bank\bin\Release\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\College\DataBase\Project\Blood Bank\obj\Release\net8.0-windows\Blood Bank.vbproj.AssemblyReference.cache
+D:\College\DataBase\Project\Blood Bank\obj\Release\net8.0-windows\Blood_Bank.dashBoardForm.resources
+D:\College\DataBase\Project\Blood Bank\obj\Release\net8.0-windows\Blood_Bank.loginForm.resources
+D:\College\DataBase\Project\Blood Bank\obj\Release\net8.0-windows\Blood_Bank.Resources.resources
+D:\College\DataBase\Project\Blood Bank\obj\Release\net8.0-windows\Blood Bank.vbproj.GenerateResource.cache
+D:\College\DataBase\Project\Blood Bank\obj\Release\net8.0-windows\Blood Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\DataBase\Project\Blood Bank\obj\Release\net8.0-windows\Blood Bank.AssemblyInfoInputs.cache
+D:\College\DataBase\Project\Blood Bank\obj\Release\net8.0-windows\Blood Bank.AssemblyInfo.vb
+D:\College\DataBase\Project\Blood Bank\obj\Release\net8.0-windows\Blood Bank.vbproj.CoreCompileInputs.cache
+D:\College\DataBase\Project\Blood Bank\obj\Release\net8.0-windows\Blood Bank.vbproj.Up2Date
+D:\College\DataBase\Project\Blood Bank\obj\Release\net8.0-windows\Blood Bank.dll
+D:\College\DataBase\Project\Blood Bank\obj\Release\net8.0-windows\refint\Blood Bank.dll
+D:\College\DataBase\Project\Blood Bank\obj\Release\net8.0-windows\Blood Bank.pdb
+D:\College\DataBase\Project\Blood Bank\obj\Release\net8.0-windows\Blood Bank.genruntimeconfig.cache
+D:\College\DataBase\Project\Blood Bank\obj\Release\net8.0-windows\ref\Blood Bank.dll
