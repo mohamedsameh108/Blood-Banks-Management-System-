@@ -1202,23 +1202,23 @@ select DONOR.FName, DONOR.LName, DONOR.DonationDate, DONOR.DonationAmount, DONOR
 --insert new donor data
 INSERT INTO DONOR (NationalID, FName, LName, Gender, BirthDate, City, Government, DonationAmount, DonationDate, BloodType, RH_Factor, DateOfLastDonation)
 VALUES
-(3030810, 'Mohamed', 'Sameh', 'Male', '2003-08-10', 'Helwan', 'Cairo', 500, '2024-05-21', 'O', '+', '2024-01-15');
+(100005, 'Toni', 'Kross', 'Male', '1990-01-04', 'Greifswald', 'Mecklenburg Vorpommern', 500, '2024-05-21', 'O', '+', '2024-01-15');
 INSERT INTO PHONE (DonorID, PhoneNumber)
 VALUES
-(3030810, 01113353893),
-(3030810, 01092159536);
+(100005, 111222333),
+(100005, 111333222);
 INSERT INTO EMAIL (DonorID, EMail)
 VALUES
-(3030810, 'samehmmm337@gmail.com'),
-(3030810, 'mohamed.sameh8103@gmail.com');
+(100005, 'tk8rm@example.com'),
+(100005, 'tk39bm@example.com');
 INSERT INTO EMERGENCY_CONTACT (DonorID, FName, LName, PhoneNumder, City, Government)
 VALUES
-(3030810, 'AbdulAzeem', 'Lotfy', 3010310, 'Al-Salam', 'Cairo');
+(100005, 'Luka', 'Modric', 100006, 'Zadar', 'Zadar');
 
 --insert new unit
 INSERT INTO BLOOD_UNIT (UnitID, DonorID, BloodType, DonationDate, RH_Factor, ExpirationDate, InventoryID, StorageCondition)
 VALUES
-(51000, 3030810, 'O', '2024-05-21', '+', '2024-06-26', 1, 'Refrigerated');
+(51000, 100005, 'O', '2024-05-21', '+', '2024-06-26', 1, 'Refrigerated');
 
 select count(*) from DONOR, BLOOD_UNIT, MEDICAL_STAFF where BLOOD_UNIT.InventoryID = MEDICAL_STAFF.DepartmentID and MEDICAL_STAFF.UserName = 'Alice.Brown' and BLOOD_UNIT.DonorID = DONOR.NationalID --return num of units that a current medical staff worked on ex: Alice.Brown
 
