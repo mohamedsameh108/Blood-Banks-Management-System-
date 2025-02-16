@@ -13,8 +13,8 @@ The **Blood Bank Management System** is a comprehensive database-driven applicat
 ## 🛠️ Technologies Used
 - **Database:** SQL (MySQL/PostgreSQL)
 - **Backend:** .NET Framework (C#)
-- **Frontend:** Windows Forms/WPF (if applicable)
-- **Tools:** Visual Studio, MySQL Workbench/PostgreSQL
+- **Frontend:** Windows Forms
+- **Tools:** Visual Studio, Microsoft SQL Server
 
 ## 📂 Database Schema
 The database consists of **30+ interrelated tables** covering donor, recipient, inventory, transfusions, and medical staff records. Key design principles applied:
@@ -22,5 +22,5 @@ The database consists of **30+ interrelated tables** covering donor, recipient, 
 - **Constraints:** Implemented **primary keys, foreign keys, CHECK constraints, and ON DELETE CASCADE** for referential integrity.
 - **Optimized Queries:** Enhanced performance for data retrieval and storage operations.
 
-## 📸 Screenshots (if applicable)
-*Add screenshots of the application UI or database schema here.*
+## 📊 ER Diagram
+![alt text]([https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ER_Diagram_MMORPG.png/600px-ER_Diagram_MMORPG.png](https://media-hosting.imagekit.io//4d849c2753804d11/ER%20Diagram.svg?Expires=1834316217&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=KxyAg7JvVFJxXXkdDZ4vg~cwqMdMZUVTDphdVMV8lXBLl3pN-6D6vFBc0FYNLTsEkKXJW6-Z87cK4Xek5IFzrKP9PzgQDOqln~bf2kHS3hqXk-xrdagmkXLshqpT6kmwnlUEwYXk3yItAUJBwD5YB1OiknAVS13zWrGaPc8zj~nOHZ-x9dsLWywAvrFVB4UCd1T1C81JDcSfB8uapRqwNjow~wkr~ImZMxNlecpWPRB9vxRcvJ89BaVKWVaKoRAgsTO-0nPdx0WIE7rCW8cnUslDTC4OSVJ2LYKdxicKPtLvOf8ZZ-FtKap1DF7kzbJAOaOL5E6dVZmfNrZmI9T1bQ__))
