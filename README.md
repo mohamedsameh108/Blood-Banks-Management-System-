@@ -24,28 +24,3 @@ The database consists of **30+ interrelated tables** covering donor, recipient, 
 
 ## 📸 Screenshots (if applicable)
 *Add screenshots of the application UI or database schema here.*
-
-## 📖 How to Run the Project
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-username/blood-bank-management.git
-   ```
-2. Set up the database:
-   - Import the provided SQL script into MySQL/PostgreSQL.
-3. Open the .NET solution in Visual Studio.
-4. Build and run the application.
-
-## ✨ Skills Gained
-- **Database Design & SQL Optimization**
-- **.NET Application Development**
-- **Data Management & Security Practices**
-- **Real-World Healthcare System Implementation**
-
-## 📩 Contact
-For any inquiries, feel free to reach out:
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-
----
-
-*Feel free to contribute, report issues, or suggest improvements!* 🚀
